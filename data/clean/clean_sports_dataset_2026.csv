@@ -1,0 +1,8 @@
+fixture_id,match_date,league_id,league_name,country,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,odds_home,odds_draw,odds_away,status,is_clean
+FIX_2026_001,2026-10-09,BUNDESLIGA,BUNDESLIGA,Alemania,BVB_09,Borussia Dortmund,WERDER_BRE,Werder Bremen,,,1.35,5.69,7.03,SCHEDULED,TRUE
+FIX_2026_002,2026-10-09,LALIGA,LALIGA,España,RCD_MAL,RCD Mallorca,RCD_ESP,RCD Espanyol,,,2.05,3.15,3.9,SCHEDULED,TRUE
+FIX_2026_003,2026-10-09,PRIMEIRA,PRIMEIRA,Portugal,SC_BRAGA,SC Braga,SPO_CP,Sporting CP,,,3.01,3.27,2.37,SCHEDULED,TRUE
+FIX_2026_004,2026-10-09,LIGAMX,LIGAMX,México,TIGRES_UANL,Tigres UANL,TOLUCA_DEP,Toluca,,,2.86,3.6,2.31,SCHEDULED,TRUE
+FIX_2026_005,2026-10-09,PREMIER,PREMIER,Inglaterra,MAN_UNITED,Manchester United,TOTTENHAM_H,Tottenham Hotspur,2,0,1.95,3.4,3.8,FINISHED,TRUE
+FIX_2026_006,2026-10-09,EUROPA_LEAGUE,EUROPA_LEAGUE,Internacional,TOTTENHAM_H,Tottenham Hotspur,MAN_UNITED,Manchester United,1,0,2.4,3.2,2.9,FINISHED,TRUE
+FIX_2026_007,2026-10-09,LIGUE1,LIGUE1,Francia,RC_LENS,RC Lens,OLYMP_LYON,Olympique Lyon,,,2.3,3.45,3.0,SCHEDULED,TRUE

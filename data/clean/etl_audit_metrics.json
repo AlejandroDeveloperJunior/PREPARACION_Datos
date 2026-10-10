@@ -1,0 +1,8 @@
+{
+  "timestamp_utc": "2026-10-10T02:08:54.734462+00:00",
+  "total_raw_rows": 15,
+  "clean_rows": 7,
+  "duplicates_removed": 8,
+  "data_quality_score": "100%",
+  "temporal_audit": "PASSED_STRICT_NO_FUTURE_LEAKAGE"
+}

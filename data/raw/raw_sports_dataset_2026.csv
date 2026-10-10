@@ -1,0 +1,16 @@
+match_id,date,league,home_team,away_team,score_raw,odds_home,odds_draw,odds_away,referee,venue,key_player,player_club,player_status
+RAW_001,09/10/2026,Bundesliga,B. Dortmund,Werder Bremen,N/A,1.35,5.69,7.03,Felix Zwayer,Signal Iduna Park,Serhou Guirassy,Borussia Dortmund,TITULAR
+RAW_002,2026-10-09T18:30:00Z,ger1,Borussia Dortmund,W. Bremen,N/A,1.35,5.69,7.03,F. Zwayer,Signal Iduna Park,Marvin Ducksch,Werder Bremen,LESIONADO
+RAW_003,09/10/2026,LaLiga,Mallorca,Espanyol,N/A,2.05,3.15,3.90,Alejandro Hernandez,Son Moix,Dominik Greif,Mallorca,TITULAR
+RAW_004,2026/10/09,ESP1,RCD Mallorca,RCD Espanyol,N/A,2.05,3.15,3.9,A. Hernandez H.,Estadi Mallorca,Edu Exposito,Espanyol,DUDA_MEDICA
+RAW_005,09-10-2026,Primeira Liga,SC Braga,Sporting CP,N/A,3.01,3.27,2.37,Artur Soares Dias,Municipal de Braga,Viktor Gyokeres,Sporting CP,TITULAR
+RAW_006,2026-10-09,POR1,Braga,Sporting Lisbon,N/A,3.01,3.27,2.37,A. Soares Dias,Braga Stadium,Sikou Niakate,SC Braga,LESIONADO
+RAW_007,09/10/2026,Liga MX,Tigres,Toluca,N/A,2.86,3.60,2.31,Marco Ortiz,El Volcan,Andre-Pierre Gignac,Tigres,TITULAR
+RAW_008,10/10/2026 03:00,MEX1,Tigres UANL,Deportivo Toluca,N/A,2.86,3.60,2.31,Marco Antonio Ortiz,Estadio Universitario,Alexis Vega,Toluca,TITULAR
+RAW_009,07/02/2026,Premier League,Manchester United,Tottenham,2 - 0,1.95,3.40,3.80,Anthony Taylor,Old Trafford,Dominic Solanke,Tottenham,TITULAR
+RAW_010,2026-02-07,ENG1,Man Utd,Tottenham Hotspur,2-0,1.95,3.40,3.80,A. Taylor,Old Trafford,Harry Kane,Tottenham,DESACTUALIZADO_ERROR
+RAW_011,21/05/2025,Europa League,Tottenham Hotspur,Manchester United,1 - 0,2.40,3.20,2.90,Szymon Marciniak,San Mames,Son Heung-min,Tottenham,TITULAR
+RAW_012,19/12/2024,EFL Cup,Tottenham,Man United,4-3,2.10,3.50,3.20,Michael Oliver,Tottenham Stadium,Brennan Johnson,Tottenham,TITULAR
+RAW_013,29/09/2024,Premier League,Manchester United,Tottenham Hotspur,0-3,2.25,3.60,2.95,Chris Kavanagh,Old Trafford,Bruno Fernandes,Manchester United,EXPULSADO
+RAW_014,09/10/2026,Ligue 1,Lens,Lyon,N/A,2.30,3.45,3.00,Benoit Bastien,Stade Bollaert,Alexandre Lacazette,Olympique Lyon,TITULAR
+RAW_015,NULL,Ligue 1,RC Lens,Olympique Lyonnais,N/A,NULL,3.45,3.00,B. Bastien,Bollaert-Delelis,Brice Samba,RC Lens,TITULAR
